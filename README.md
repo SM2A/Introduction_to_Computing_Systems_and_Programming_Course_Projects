@@ -1,5 +1,5 @@
 # Introduction to Computing Systems and Programming Course Projects
-This repository contains my Introduction to Computing Systems and Programming Course Projects (Fall 2019) at University of Tehran.
+This repository contains my Introduction to Computing Systems and Programming course projects (Fall 2019) at University of Tehran.
 
 1. CA1 (Pahse 1) : Multiplayer Tic Tac Toe whitout functions
 2. CA1 (Pahse 2) : Multiplayer Tic Tac Toe with functions
